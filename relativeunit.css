@@ -1,0 +1,20 @@
+*{margin: 0;padding: 0;
+    font-size: 30px;}
+
+    #div1{background-color: red;
+    height: 100px;width: 300px; font-size: 20px;}
+
+    #div2{background-color: blue;
+    height: 50%;width: 20%; font-size: 1em;}
+
+    #div3{background-color: #3d729178;
+    height: 200px; width: 400px;font-size: 20px;}
+
+    #div4{background-color: rgb(234, 0, 255);
+        height: 60%;width: 40%; font-size: 2em;}
+
+    #div5{background-color: #95c112c7;
+        height: 200px; width: 400px;font-size: 10px;}
+
+    #div6{background-color: rgb(255, 230, 0);
+         height: 60%;width: 40%; font-size: 2rem;}

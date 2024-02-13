@@ -1,0 +1,18 @@
+*{margin: 0; padding: 0;}
+        
+        .box{height: 100px;
+             width: 100px;
+             background-color: #14a9e4ac;
+             display: block; margin: 5px;}
+        .box1{height: 100px;
+            width: 100px;
+            background-color: #bebe15ac;
+            display: inline; margin: 5px;}
+        .box2{height: 100px;
+            width: 100px;
+            background-color: #2427c9ac;
+            display: inline-block; margin: 5px;}
+        .box3{height: 100px;
+                width: 100px;
+                background-color: #0d912181;
+                display: none; margin: 5px;}
